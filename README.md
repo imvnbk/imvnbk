@@ -21,7 +21,7 @@
 
 | Проект | Описание |
 |--------|----------|
-Все проекты — тесты для [beeline.kz](https://beeline.kz), собраны в одном репозитории [diploma-qa-automation-beeline](https://github.com/imvnbk/diploma-qa-automation-beeline).
+Дипломный проект — тесты для [beeline.kz](https://beeline.kz), собраны в одном репозитории [diploma-qa-automation-beeline](https://github.com/imvnbk/diploma-qa-automation-beeline).
 
 | Проект | Описание |
 |--------|----------|
